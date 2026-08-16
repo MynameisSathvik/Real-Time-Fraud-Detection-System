@@ -7,3 +7,4 @@ data/*.csv
 
 .venv/
 venv/
+!data/test.csv
